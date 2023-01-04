@@ -8,9 +8,9 @@ package main
 import (
 	"os"
 
-	_ "go.uber.org/automaxprocs"
+	// _ "go.uber.org/automaxprocs"
 
-	"github.com/marmotedu/miniblog/internal/miniblog"
+	"github.com/tuxnotes/miniblog/internal/miniblog"
 )
 
 // Go 程序的默认入口函数(主函数).
